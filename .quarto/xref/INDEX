@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "76d955af"
+  },
+  "course.qmd": {
+    "course.html": "2696117d"
+  },
+  "contact.qmd": {
+    "contact.html": "f62be0d2"
+  },
+  "subject.qmd": {
+    "subject.html": "8a1adad9"
+  },
+  "policies.qmd": {
+    "policies.html": "51cb0e64"
+  },
+  "calendar.qmd": {
+    "calendar.html": "f65b6e72"
+  },
+  "grading.qmd": {
+    "grading.html": "d17d9166"
+  },
+  "conduct.qmd": {
+    "conduct.html": "4254c486"
+  },
+  "mandatory.qmd": {
+    "mandatory.html": "344c00b2"
+  }
+}
